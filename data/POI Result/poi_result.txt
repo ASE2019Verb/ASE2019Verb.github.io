@@ -1,0 +1,8 @@
+annotation1 average: 3.82
+annotation2 average: 3.838
+annotation3 average: 3.875
+annotation4 average: 3.768
+annotation5 average: 3.83
+annotation6 average: 3.876
+
+all average:3.8345
