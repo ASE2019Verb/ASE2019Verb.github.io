@@ -1,6 +1,6 @@
 theme: jekyll-theme-architect
 title: [VERB Replication Package]
 description: [the replication package for VERB]
-show_downloads: "false"
-is_user_page: "false"
-github.is_user_page: "false"
+# show_downloads: "false"
+# is_user_page: "false"
+# github.is_user_page: "false"
