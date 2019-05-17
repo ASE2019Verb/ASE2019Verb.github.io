@@ -1,6 +1,6 @@
 RQ1:
 
-1. Total verbs appearing in the total dataset. [RQ1/sorted_verb_count.txt, verb_count.xlsx](RQ1/sorted_verb_count.txt)
+1. Total verbs appearing in the total dataset. [RQ1/sorted_verb_count.txt, verb_count.xlsx](https://github.com/APIKnowledgeGraph/APIKnowledgeGraph.github.io/blob/master/RQ1/sorted_verb_count.txt)
 2. Total functionality descriptions (54256). (RQ1/total_functionality_descriptions.csv)
 
 RQ2:
