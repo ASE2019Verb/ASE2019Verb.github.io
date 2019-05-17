@@ -1,0 +1,5 @@
+(530, '"""Programmatically perform a """"click""""."""')
+(30, 'Reverses the order of the elements in the specified list.')
+(586, 'Waits for this thread to die.')
+(352, 'Waits for this thread to die.')
+(597, 'A NodeList that contains all children of this node.')
