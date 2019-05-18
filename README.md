@@ -26,7 +26,7 @@
 
    The second part mainly includes a figure which can shows the numbers clearly.
 
-3. [first_80_pattern_count.xls](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ3/first_80_pattern_count.xls) shows the numeber of _p\_patterns_ for each _f\_category_ and the number of _p\_patterns_ that appear in 80%  _f\_sentences_. It mainly includes two parts. The left is the data of the numebr of _p\_patterns_ for each _f\_category_ and the number of _p\_patterns_ that appear in 80%  _f\_sentences_ sorted by the number of _p\_patterns_, the right is a figure that describes this trend.
+3. [first_80 pattern_count.xls](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ3/first_80_pattern_count.xls) shows the numeber of _p\_patterns_ for each _f\_category_ and the number of _p\_patterns_ that appear in 80%  _f\_sentences_. It mainly includes two parts. The left is the data of the numebr of _p\_patterns_ for each _f\_category_ and the number of _p\_patterns_ that appear in 80%  _f\_sentences_ sorted by the number of _p\_patterns_, the right is a figure that describes this trend.
 
 ##### RQ4: What is the impact of the inconsistencies between API _f\_sentences_ and developer queries on API retrieval?
 
