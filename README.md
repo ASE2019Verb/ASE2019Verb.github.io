@@ -6,7 +6,7 @@
 2. [verb_count.xlsx](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ1/verb_count.xlsx) includes the appearance count in functionality descriptions of all 931 verbs. Each row contains four parts. The first part is the verb, the second is the appearance count of this verb, the third is the index, and the last part is the log result of the count. Also, there are four figures that show the trend of the verb count's change. 
 3. Total functionality descriptions (54256). [total_functionality_descriptions.csv](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ1/total_functionality_descriptions.csv) contains 54,256 _f\_sentences_ filtered from Java and Android API methods. Each piece of data contains API's qualified name and its _f\_sentence_.
 
-#####RQ2: What _f\_categories_ can the _f\_sentences_ be classified into?
+##### RQ2: What _f\_categories_ can the _f\_sentences_ be classified into?
 
 1. [functionality_category.tsv](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ2/functionality_category.tsv) shows the _f\_categories_ we summarized. It mainly includes four parts. The first column shows the total verbs of each _f\_category_, the second column is the main verb of each _f\_category_, the third is the number of verbs that each _f\_category_ contains and the last column shows three example _f\_sentences_ of each _f\_category_.
 
