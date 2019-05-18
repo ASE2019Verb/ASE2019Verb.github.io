@@ -1,6 +1,6 @@
-####Replication package for paper: Detecting Inconsistent API Functionality Descriptions in Reference Documentation and Developer Questions
+#### Replication package for paper: Detecting Inconsistent API Functionality Descriptions in Reference Documentation and Developer Questions
 
-#####RQ1: What verbs are used in the API _f\_sentences_
+##### RQ1: What verbs are used in the API _f\_sentences_
 
 1. [sorted_verb_count.txt](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ1/sorted_verb_count.txt) shows the all verbs we collect from _f\_sentences_ of Java and Android API methods. There are 931 verbs including the verb "return", and 87 verbs(9.34%) of them appear in 80% _f\_sentences_. 930 verbs excluding the verb "return", and 115 verbs(12.37%) of them appear in 80% _f\_sentences_.
 2. [verb_count.xlsx](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ1/verb_count.xlsx) includes the appearance count in functionality descriptions of all 931 verbs. Each row contains four parts. The first part is the verb, the second is the appearance count of this verb, the third is the index, and the last part is the log result of the count. Also, there are four figures that show the trend of the verb count's change. 
@@ -16,7 +16,7 @@
 
 3. [anotation_rules](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ2/annotation_rules.md) is the rules for annotators.
 
-#####RQ3: What _p\_patterns_ are used in the _f\_sentences_ from each _f\_category_?
+##### RQ3: What _p\_patterns_ are used in the _f\_sentences_ from each _f\_category_?
 
 1. [functionality_category_sentence_pattern.json](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ3/functionality_category_sentence_pattern.json) shows all _p\_patterns_ used in the _f\_sentences_ of each _f\_category_ and the count of each _p\_pattern_ in each _f\_category_.
 
@@ -28,7 +28,7 @@
 
 3. [first_80_pattern_count.xls](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ3/first_80_pattern_count.xls) shows the numeber of _p\_patterns_ for each _f\_category_ and the number of _p\_patterns_ that appear in 80%  _f\_sentences_. It mainly includes two parts. The left is the data of the numebr of _p\_patterns_ for each _f\_category_ and the number of _p\_patterns_ that appear in 80%  _f\_sentences_ sorted by the number of _p\_patterns_, the right is a figure that describes this trend.
 
-#####RQ4: What is the impact of the inconsistencies between API _f\_sentences_ and developer queries on API retrieval?
+##### RQ4: What is the impact of the inconsistencies between API _f\_sentences_ and developer queries on API retrieval?
 
 1. [questions.tsv](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ4/questions.tsv) shows the annotation results of the questions by two annotators. It contains 13 columns. The first column is the raw question, the second is the final _p\_pattern_ of the question and the third is the raw verb of the question. Column 4 - 7 are the annotation results by the first annotator which include the revised _f\_sentence_, the revised verb, the index of _f\_category_, the value whether it is a _f\_sentence_. Column 8 - 10 are the annotation results by the second annotator. Column 11 and 12 are the final results of the annotation, and the last column is the index.
 2. [api_descriptions.tsv](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ4/api_descriptions.tsv) has the similar structure to [questions.tsv](https://github.com/ASE2019Verb/ASE2019Verb.github.io/blob/master/RQ4/questions.tsv). It mainly includes 14 columns. The first column is the index, the second is the qualified name of API method, the third is the raw _f\_sentence_ of each API method. Column 4 - 5 show the final annotation results of each _f\_sentence_. Column 6 is the value whether these two annotators are consensus. Column 7 is the raw verb, column 8 is the revised verb, column 9 is the index of the _f\_category_ that teh revised verb belongs to and column 10 is whether the API description is a  _f\_sentence_. Column 11 and column 13 are the annotation results by the first annotator which include the revised verb and revised _f\_sentence_. Column 12 and column 14 are the annotation results by the second annotator.
