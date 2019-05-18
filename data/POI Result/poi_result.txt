@@ -7,4 +7,8 @@ annotation6 average: 3.876
 
 all average:3.8345
 
-The average rating is 3.83. In 73.8% of the cases all six ratings are 4. In 82.4% of the cases the six ratings are 3 or 4. In 17.6% of the cases the at least one of the six ratings is 1 or 2. In none of the cases the six ratings are all 1 or 2. 
+The average rating is 3.83. 
+In 73.8% of the cases all six ratings are 4. 
+In 82.4% of the cases the six ratings are 3 or 4. 
+In 17.6% of the cases the at least one of the six ratings is 1 or 2. 
+In none of the cases the six ratings are all 1 or 2. 
