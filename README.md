@@ -2,7 +2,7 @@
 
 ##### Attention:
 
-we call the functionality sentence  _f\_sentence_
+We call the functionality sentence  _f\_sentence_
 
 A  _f\_sentence_ can be classiﬁed into a functionality category (or _f\_category_)
 
