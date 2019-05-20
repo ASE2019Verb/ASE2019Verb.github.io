@@ -2,11 +2,11 @@
 
 ##### Attention:
 
-_f\_sentence_ stands for functionality description;
+we call the functionality sentence  _f\_sentence_
 
-_f\_category_ stands for functionality category;
+A  _f\_sentence_ can be classiﬁed into a functionality category (or _f\_category_)
 
-_p\_pattern_ stands for phrase pattern.
+The _f\_sentence_ from a _f\_category_ share a set of phrase patterns (or _p\_pattern_)
 
 ##### RQ1: What verbs are used in the API _f\_sentences_
 

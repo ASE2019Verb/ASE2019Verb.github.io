@@ -1,4 +1,4 @@
-functionality category	main verb	verb count	example sentences
+functionality category	label verb	verb count	example sentences
 cancel/deregister/undo/deny/unset/unschedule/unregister/unbind/uninitialize/unload/deselect/unlock/unblock	cancel	13	"['Cancels the speech recognition.', 'Instructs the WebView to cancel the authentication request.', 'Cancels the current editing session.']"
 test/tell/determine/check/retrieve/ascertain/return/control/indicate/query/report/validate/get/invalidate/verify/find/identify/track/detect/decide	check	20	"['Tests for equality between the specified object and this timestamp.', 'Test if a document is descendant (child, grandchild, etc) from the given parent.', 'Tests for equality between the specified object and this object.']"
 update/modify/fill/edit/change/rename/populate/adjust/flush/trim/adapt/reconcile/resize	modify	13	"['Update the buffer metadata information.', 'Atomically updates the field of the given object managed by this updater with the results of applying the given function, returning the updated value.', 'Updates the designated column with a java.sql.Ref value.']"
